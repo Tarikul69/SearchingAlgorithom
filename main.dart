@@ -17,6 +17,5 @@ void main() {
   //JumpSearch
 
   //Interpolation Search
-   
   InterpolationSearch(arr ,find,);
 }

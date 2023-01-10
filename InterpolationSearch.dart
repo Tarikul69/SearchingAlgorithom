@@ -5,5 +5,5 @@ InterpolationSearch(List<int> arr, int find,)
   int g = bottom.toInt();
   int c =  ( (arr.length-1) - (arr.indexOf(arr.first)));
   int d = arr.indexOf(arr.first) + (top*c);
-  print(arr[g]);
+  print(top);
 }
